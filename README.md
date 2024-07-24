@@ -62,7 +62,10 @@ The SGPA (Semester Grade Point Average) is calculated using the formula:
 
 The CGPA (Cumulative Grade Point Average) is calculated using the formula:
 
-\[ \text{CGPA} = \frac{\sum (\text{SGPA} \times \text{Total Credits})}{\sum \text{Total Credits}} \]
+
+CGPA=    ∑Total Credits
+       ____________________
+       ∑(SGPA×Total Credits)
 
 ## Modifying the Formulas
 
