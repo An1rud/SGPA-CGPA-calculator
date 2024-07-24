@@ -50,23 +50,6 @@ This Streamlit application allows users to calculate their Semester Grade Point 
     - Input the SGPA and total credits for each semester.
     - Click the "Calculate CGPA" button to see the result.
 
-## Formula Used
-
-### SGPA Calculation
-
-The SGPA (Semester Grade Point Average) is calculated using the formula:
-
-\[ \text{SGPA} = \frac{\sum (\text{Credit} \times \text{Grade})}{\sum \text{Credits}} \]
-
-### CGPA Calculation
-
-The CGPA (Cumulative Grade Point Average) is calculated using the formula:
-
-
-CGPA=    ∑Total Credits
-       ____________________
-       ∑(SGPA×Total Credits)
-
 ## Modifying the Formulas
 
 If you want to modify the formulas used for SGPA or CGPA calculations, you can do so by changing the corresponding functions in the code.
